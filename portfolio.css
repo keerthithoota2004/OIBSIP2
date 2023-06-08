@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-brand {
+    color: ivory;
+    font-size: 28px;
+    font-family: "Bree Serif";
+
+}
+
+.pic {
+    width: 250px;
+    height: 250px;
+    border-radius: 500px;
+    text-align: center;
+    margin-left: 50px;
+
+}
+
+.bg-container {
+    background-color: #3b3c36;
+
+}
+
+.welcome {
+    color: ivory;
+    font-size: 38px;
+    font-family: "Serif";
+    text-align: center;
+}
+
+.name {
+    color: orange;
+}
+
+.para {
+    color: ivory;
+    font-size: 25px;
+    font-family: "Serif";
+}
+
+.card-heading {
+    color: skyblue;
+    font-size: 28px;
+    font-family: "Bree Serif";
+    font-weight: bold;
+
+}
+
+.text {
+    color: ivory;
+    text-align: center;
+}
+
+.button {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: ivory;
+    border-radius: 8px;
+    height: 38px;
+    width: 108px;
+    background-color: #0818a8;
+    border-color: transparent;
+}
+
+.certi {
+    color: ivory;
+    font-family: "Serif";
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.certif {
+    color: ivory;
+    font-family: "Serif";
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.icon {
+    color: ivory;
+    font-size: 27px;
+    text-align: center;
+}
+
+.contact {
+    color: skyblue;
+    font-size: 28px;
+    text-decoration: none;
+    font-family: "Bree Serif";
+    font-weight: bold;
+    text-align: center;
+}
+
+.txt {
+    color: ivory;
+    border-color: transparent;
+    border-radius: 0px;
+    height: 38px;
+    width: 158px;
+    text-align: center;
+    background-color: orange;
+    margin-left: 10px;
+    font-size: 13px;
+    font-family: "Roboto";
+}
+
+.pics {
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+}
+
+.iconi {
+    color: ivory;
+    font-size: 15px;
+    text-align: center;
+}
+
+hr {
+    display: block;
+    border-width: 2px;
+    border-color: ivory;
+}

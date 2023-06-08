@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-color:ivory;
+
+}
+
+.pic {
+    width: 120px;
+    height: 120px;
+}
+
+.name {
+    color: maroon;
+    font-size: 18px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+
+.item {
+    font-family: "Times New Roman";
+    font-size: 15px;
+}
+
+.line {
+    font-weight: bold;
+    color: blue;
+    height: 5px;
+}
+
+hr {
+    display: block;
+    border-width: 2px;
+    border-color: black;
+}
+
+.heading {
+    color: ivory;
+    font-size: 18px;
+
+    font-family: "Times New Roman";
+    font-weight: 500;
+}
+
+.cont {
+    background-color: navy;
+}
+
+.aq,
+.aq th,
+.aq td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    padding: 20px;
+    font-size: 15px;
+    font-family: "Times New Roman";
+}
+
+table {
+    border-spacing: 20px;
+    border-style: solid;
+    border-color: black;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: gray;
+}
+
+.certi {
+    font-family: "Times New Roman";
+    font-size: 15px;
+    color: black;
+}
+
+.unq {
+    color: blue;
+    font-size: 15px;
+    font-family: "Times New Roman";
+}
+
+.txt {
+    font-family: "Times New Roman";
+    font-size: 15px;
+    color: black;
+}
